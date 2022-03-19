@@ -4,6 +4,7 @@
     "app": {
       "appLocation": "./cypress/fixtures/static",
       "context": "./cypress/fixtures/static/app",
+      "outputLocation": "./cypress/fixtures/static/app",
       "apiLocation": "./cypress/fixtures/static/api",
       "port": 1234,
       "host": "0.0.0.0",
